@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DenisaCalin
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript frameworks
+- 📫 Reach me by email - stefaniadenisa.calin@gmail.com

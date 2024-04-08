@@ -1,7 +1,7 @@
-👋 Hi, I’m @DenisaCalin
-👀 I’m interested in Web Development
-🌱 I’m currently learning JavaScript frameworks
-💼 Projects
-    🎮 Swapping Puzzle (https://csd-puzzle.web.app/)
-    🌐 Declutter Website (https://doinagarba.ro/)
-📫 Reach me by email - stefaniadenisa.calin@gmail.com
+👋 Hi, I’m @DenisaCalin</br>
+👀 I’m interested in Web Development</br>
+🌱 I’m currently learning JavaScript frameworks</br>
+💼 Projects</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Swapping Puzzle (🎮 https://csd-puzzle.web.app/)</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Declutter Website (🌐 https://doinagarba.ro/)</br>
+📫 Reach me by email - stefaniadenisa.calin@gmail.com</br>

@@ -1,8 +1,15 @@
 👋 Hi, I’m @DenisaCalin</br>
-👀 I’m interested in Web Development</br>
-🌱 I’m currently learning JavaScript frameworks</br>
-💼 Projects</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Swapping Puzzle (🎮 https://csd-puzzle.web.app/)</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mood-Drivel Travel Web App (📜 https://github.com/DenisaCalin/Mood-driven-travel)</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Declutter Website (🌐 https://doinagarba.ro/)</br>
-📫 Reach me by email - stefaniadenisa.calin@gmail.com</br>
+💻 Full-Stack Developer skilled in **HTML, CSS, JavaScript, PHP, MySQL, React, and Laravel**, with professional experience delivering scalable web applications.</br>
+👀 Passionate about **Web Development & WordPress**, blending professional projects with creative freelance work.</br>
+🌱 Currently exploring modern JavaScript frameworks to expand my skill set.</br>
+
+## 🎓 Academic Projects  
+- 🎮 **Swapping Puzzle** – university project [Live demo](https://csd-puzzle.web.app/)  
+- 📜 **Mood-driven Travel Web App** – bachelor thesis [Repo](https://github.com/DenisaCalin/Mood-driven-travel)  
+
+## 🌍 WordPress Projects (hobby & freelance)  
+- 🌐 **Declutter Website** – site for a personal development coach [Live](https://doinagarba.ro/)  
+- 🌐 **Decorative Arts Website** – portfolio for an artist [Live](https://ancacotovanu.ro/)  
+- 🌐 **Corporate Website** – engineering company presentation [Live](https://empire-project.ro/)  
+
+📫 Reach me at **stefaniadenisa.calin@gmail.com**</br>
